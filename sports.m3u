@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1  group-title="Lista TV", DIRECTV SPORTS
+https://directvsports-live.akamaized.net/hls/live/2026679/DTVSAR/stream05/hdntl=exp=1624136635~acl=%2f*~data=hdntl~hmac=58d82ebee4bada88a4e15217660cad3f6cf06702f4215f5abb1114c64f518ca8/streamPlaylist.m3u8
+#EXTINF:-1  group-title="Lista TV", DIRECTV SPORTS 2
+https://directvsports-live.akamaized.net/hls/live/2026679/DTVS2/stream05/hdntl=exp=1624136028~acl=%2f*~data=hdntl~hmac=54827e8ab796df862b41d41606b5caafc283eb30771235976f648aa51c6470cf/streamPlaylist.m3u8
